@@ -1,0 +1,129 @@
+.nv{
+    background-color: rgb(51,51,51);
+}
+.dd{
+    background-color: rgb(51,51,51);
+    border: none;
+    color: #b7b7b7;
+    font-weight: bold;
+    padding-right: 18px;
+}
+#navBtn{
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    color: #3d3a3f;
+    font-weight: bold;
+    font-size: 13px;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#brnd{
+    display: inline;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+}
+#div2{    
+    background-color: black;
+}
+#div4{
+    background-color: #5f5f5f;
+}
+.hs,.dark{
+    color: white;
+}
+.ftr{
+background-color: #333333;
+color: white;
+}
+.c{
+background-color: #c19b76;
+}
+#logo{
+    padding-bottom: 10px;
+}
+.ath{
+    background-color: #efefef;
+}
+#div6{
+    background-color: #a7a7a7;
+}
+.set{
+    padding-top: 2rem;    
+    padding-bottom: 3rem;
+}
+
+#desc{
+    font-size: 11px;
+}
+
+#div7{
+    background-color: #232323;
+}
+span{
+    color: #c29972;
+}
+.d3{
+    color: #7a818b;
+}
+#b2{
+    background-color: #333333;
+    color: white;
+    border: none;
+    padding: 5px 25px 5px 25px;
+    font-size: 12px;
+}
+#leftbtn{
+    background-color: #333333;
+    color: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    font-size: 12px;
+}
+  .list{
+      background-color: #ffffff;
+  }
+  .listBtn{
+      background-color: #c19b76;
+      color: white;
+      border: none;
+      font-weight: bold;
+      font-size: 10px;
+      padding: 5px 0px 5px 0px;
+      width: 100%;
+  }
+  .icons{
+      display: inline;      
+  }
+#div2{
+    /*margin-top: 180px;*/
+}
+#banner{
+    padding-top: 40px;
+}
+#txt{
+    background-color: black;
+    color: white;
+    border: none;
+    
+}
+#sub{
+    background-color: #c19b76;
+    color: white;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+.card-title{
+    font-size: 15px;
+}
+.per,.list-group-item{
+    font-size: 14px;
+    font-weight: lighter;
+}
+.card-text{
+    font-size: 22px;
+}
