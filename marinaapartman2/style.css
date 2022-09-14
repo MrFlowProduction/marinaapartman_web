@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 .nv{
     background-color: rgb(51,51,51);
 }
@@ -21,6 +22,10 @@
     display: inline;
     margin: 0;
     padding: 0;
+}
+.short-intro h1 {
+    color: #ffffff;
+    width: 120%;
 }
 .heading{
     font-family: 'Times New Roman', Times, serif;
@@ -64,7 +69,7 @@ background-color: #c19b76;
     background-color: #232323;
 }
 span{
-    color: #c29972;
+    color: #168BDE;
 }
 .d3{
     color: #7a818b;
@@ -99,12 +104,12 @@ span{
   .icons{
       display: inline;      
   }
-#div2{
-    /*margin-top: 180px;*/
-}
 .navbar{
     position: absolute;
     width: 100%;
+}
+.active .nav-link{
+    color: #168BDE !important;
 }
 #banner{
     display: flex;
@@ -116,8 +121,32 @@ span{
     background-repeat: no-repeat;
     background-image: url("./assets/images/DSC_0423.JPG");
 }
+#banner-sm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50vh;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("./assets/images/DSC_0423.JPG");
+}
 #banner h1 {
-    font-family: cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 30px;
+}
+#banner-sm h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 60px;
+}
+#banner p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
 }
 #txt{
     background-color: black;
